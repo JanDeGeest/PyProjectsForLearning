@@ -1,2 +1,2 @@
 # ProjectsForLearning
-This section has projects I made during a online Python course
+This section has projects I made during an online Python course.
