@@ -1,2 +1,2 @@
 # Projects for learning Python
-This section has projects I made during an online Python course.
+This section contains scripts I've written for the sake of learning Python.
