@@ -7,8 +7,8 @@
 from oscontrol.FileMigration import FileMigration
 
 # Objects / parameters
-source_dir = r'/media/pi/data/import'
-target_dir = r'/home/pi/pyscripts'
+source_dir = r' ' #@ path
+target_dir = r' ' #@ path
 file_type = '.py'
 
 py_migration = FileMigration(source_dir, target_dir, file_type)
